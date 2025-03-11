@@ -36,7 +36,7 @@
 
 ### Deployment
 
-- **Deploy on [HEROKU](https://github.com/mauricegift/telegram-bot/blob/main/gift/heroku.md)**
+- **Deploy on [HEROKU](https://github.com/caseyweb/telegrambot/blob/main/gift/heroku.md)**
 
 - **Deploy on [RENDER](https://dashboard.render.com/new)**
   

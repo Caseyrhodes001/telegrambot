@@ -1,4 +1,4 @@
-global.prefix = '/'; // Set Your Preferred Prefix
+global.prefix = '.'; // Set Your Preferred Prefix
 global.botName = 'CASEYRHODES-MD'; // Bot Name
 global.botVersion = '2.0.0';
 global.botPic = 'https://i.ibb.co/5XbdKTnz/lordcasey.jpg'; // Can use path, can also use link
